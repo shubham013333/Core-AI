@@ -1,5 +1,18 @@
-# Ignore all virtual environments
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
 venv/
 env/
-# Ignore anything with venv in name
 *venv*/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+mlruns/
+mlflow.db/

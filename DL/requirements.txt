@@ -1,2 +1,5 @@
 torch
 ipykernel
+numpy
+torchvision 
+mlflow
