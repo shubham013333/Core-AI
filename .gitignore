@@ -1,0 +1,5 @@
+# Ignore all virtual environments
+venv/
+env/
+# Ignore anything with venv in name
+*venv*/
