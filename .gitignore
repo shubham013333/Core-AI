@@ -15,4 +15,4 @@ env/
 .idea/
 
 mlruns/
-mlflow.db/
+*mlflow*/
